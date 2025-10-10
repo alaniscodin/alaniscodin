@@ -2,7 +2,7 @@
   
 
 <div align="center">
-<img src="https://i.pinimg.com/736x/2c/d1/09/2cd1096657a46bbb37a732deb0a8b42a.jpg" align="center" height="" width="" />
+<img src="" align="center" height="" width="" />
 </div>  
   
 
@@ -13,7 +13,7 @@ Sou estudante de Ciência da Computação, apaixonado pela criação de jogos e 
   
 
 <div align="center">
-<img src="https://i.pinimg.com/1200x/3f/a1/df/3fa1df7b2eb7729153667ad6da2edd16.jpg" align="center" style="width: 100%" />
+<img src=" " align="center" style="width: 100%" />
 </div>  
   
 
