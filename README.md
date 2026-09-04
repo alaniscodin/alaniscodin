@@ -7,16 +7,25 @@
 </div>  
 
 ### ⤷ ☆ Sobre mim...  
-Sou estudante de Ciência da Computação, apaixonado pela criação de jogos e atualmente aprendendo Game Maker e Unity. Tenho conhecimento em inglês e estou sempre buscando aprender mais, seja em programação, idiomas ou novas ferramentas. A maioria dos meus projetos aqui são estudos e experimentos enquanto evoluo na área!
-
+Sou estudante de Ciência da Computação, apaixonado pela criação de jogos e atualmente aprendendo HTML e CSS, muitos dos meus projetos envolve sites com essa tematica. Tenho conhecimento em inglês e estou sempre buscando aprender mais, seja em programação, idiomas ou novas ferramentas.
 <br/>
-
 <div align="center">
+</div>
   
   ![1000004015](https://github.com/user-attachments/assets/94399cf7-a4ae-47a8-bc5d-4b390016c227)
 
 </div>  
+<div >
+  Me interesso principalmente por Front-End, boa parte dos mesmos envolve um bom design visual e animações!
+<br/>
   
+<div align="center">
+  <br/>
+  <img width="99" height="56" alt="b7" src="https://github.com/user-attachments/assets/728b9ae0-5dfd-465a-a779-fc3ec771ebc5" />
+  <img width="99" height="56" alt="b56" src="https://github.com/user-attachments/assets/8719a170-1c7b-465b-925c-66b25b80d0df" />
+  
+
+</div>
 
 <br/> 
 
