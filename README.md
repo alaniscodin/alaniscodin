@@ -7,7 +7,7 @@
 </div>  
 
 ### ⤷ ☆ Sobre mim...  
-Sou estudante de Ciência da Computação, apaixonado pela criação de jogos e atualmente aprendendo HTML e CSS, muitos dos meus projetos envolve sites com essa tematica. Tenho conhecimento em inglês e estou sempre buscando aprender mais, seja em programação, idiomas ou novas ferramentas.
+Sou estudante de Ciência da Computação, apaixonado pela criação de jogos e atualmente aprendendo HTML e CSS, muitos dos meus projetos envolve sites com essa tematica. Estou sempre buscando aprender mais, seja em programação, idiomas ou novas ferramentas.
 <br/>
 _Me interesso principalmente por Front-End, boa parte dos mesmos envolve um bom design visual e animações!_
 <br/>
